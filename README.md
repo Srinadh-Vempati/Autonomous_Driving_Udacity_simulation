@@ -17,4 +17,5 @@ Using Udacity open source Self Driving car simulator, developing a Deep Convolut
 - Pandas
 
 ## References
-- 
+- https://github.com/rslim087a
+- https://www.udemy.com/course/applied-deep-learningtm-the-complete-self-driving-car-course/
